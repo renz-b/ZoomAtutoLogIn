@@ -3,9 +3,9 @@ from PIL import Image
 
 import os
 import subprocess
-
-id = "264 489 5572"
-psw = "imsphi"
+ 
+id = "xxx xxx xxxx" # zoom id
+psw = "enter password"
 
 
 def initialize():
